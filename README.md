@@ -131,15 +131,10 @@ Following are the api rotes
 - in app directory use the following commads
 
 ```
-$ npm install
-$ cd client
-$ npm install
-$ npm run build
-$ cd..
 $ npm start
 
 ```
-- after these commands
+- after this command
 go to URL # [http://localhost:4000](http://localhost:4000)
 
 # For Login
